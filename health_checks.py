@@ -35,7 +35,7 @@ def main():
 
     if not everything_ok:
         sys.exit(1)
-    print("Everything OK !!!")
+    print("Everything OK !!! FACTOR")
     sys.exit(0)
 
 main()
