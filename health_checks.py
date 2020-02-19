@@ -30,7 +30,7 @@ def main():
     if check_root_full():
         print("Root partition full.")
         sys.exit(1)
-    print("Everything OK !!!")
+    print("Everything OK !!! MASTER")
     sys.exit(0)
 
 main()
